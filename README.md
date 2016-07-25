@@ -1,6 +1,6 @@
 # iobit
 
-***A microbit office badge that lets coworkers know where you are and when you'll be back***
+##A microbit office badge that lets coworkers know where you are and when you'll be back
 
 *A project for Microsoft OneWeek 2016*
 
